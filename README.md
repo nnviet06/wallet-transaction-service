@@ -12,3 +12,16 @@ A backend wallet service handling deposits, withdrawals, and transfers with tran
 - API with Vert.x
 - Redis caching
 - Risk detection (daily limits, suspicious amount flagging, velocity checks)
+
+
+## Tech Stack
+
+- **Java 17**
+- **Maven** 
+- **Vert.x 4.5+** 
+- **Mutiny** 
+- **PostgreSQL**
+- **Vert.x JDBC Client**
+- **Redis**
+
+
